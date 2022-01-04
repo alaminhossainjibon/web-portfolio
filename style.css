@@ -1,0 +1,17 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+}
+.color-orange{
+    color: orange;
+}
+.top-banner{
+
+}
+.half-width{
+    width: 50%;
+}
+h1{
+    font-size: 50px;
+}
