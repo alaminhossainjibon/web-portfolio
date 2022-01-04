@@ -7,11 +7,36 @@ body{
     color: orange;
 }
 .top-banner{
-
+    display: flex;
+    padding: 30px;
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
 }
 .half-width{
     width: 50%;
+    padding: 50px;
+}
+.half-width img{
+    width: 90%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(#ffa805ee, #db6e62);
+    padding: 10px 25px;
+    border-radius: 5px;
+    font-weight: 700;
+    color: white;
 }
 h1{
     font-size: 50px;
+}
+.dream-area{
+    display: flex;
+    padding: 30px;
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+    background-position: right;
+}
 }
